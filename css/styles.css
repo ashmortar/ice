@@ -1,0 +1,20 @@
+#florida-showing {
+  display: none;
+}
+
+#mexicocity-showing {
+  display: none;
+}
+
+#tiger-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
